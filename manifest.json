@@ -7,12 +7,12 @@
   "theme_color": "#4d719e",
   "icons": [
     {
-      "src": "https://drive.google.com/uc?export=download&id=1-5iDry_oETXt4f0Yj0Z5Z-4bj0CGX1Mw",
-      "sizes": "256x256",
+      "src": "https://monticola-data.github.io/pwa-service-worker/notepad_192x192.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://drive.google.com/uc?export=download&id=1_OFuoBjMXBBeLsxDTz8mdft16pQMMtQQ",
+      "src": "https://monticola-data.github.io/pwa-service-worker/notepad_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
